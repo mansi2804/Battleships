@@ -199,28 +199,4 @@ All successful operations will result in an HTTP status code of `200`.
 
 In your `REPORT.md` file, please indicate which of the listed platforms you have tested your app on. We will test your application by building and running it in one of your selected platforms, and manually verifying that it meets the requirements outlined above.
 
-## 6. Grading
 
-This machine problem is worth 50 points. Your grade will be based on the following criteria:
-
-- 2 points: A completed `REPORT.md` file with the required information. **Without this we will not evaluate your submission!**
-
-- 4 points: Users can register and log in.
-
-- 4 points: Session tokens are stored locally (between application restarts), and logging out expunges the token. If the token expires, the user is required to log in again.
-
-- 8 points: The game list page displays the list of games (active/matchmaking and completed separately) with all the required information correctly. The game list page can be refreshed manually.
-
-- 8 points: Starting a game displays a functional game board for ship placement. When 5 ships are placed, the game is started and the ships are submitted to the server.
-
-- 4 points: The game board is appropriately responsive.
-
-- 4 points: It is possible to start games with human opponents, and all supported types of AI opponents.
-
-- 8 points: The gameplay screen displays the game board and allows the user to play the game if it is their turn. The game board displays all the required information correctly (ships, wrecks, missed shots, sunk ships).
-
-- 4 points: The gameplay screen displays the appropriate information after a shot is played (invalid shot, miss, sunk ship, won game).
-
-- 4 points: The gameplay screen refreshes immediately after the user plays a shot against an AI opponent, and allows the user to play again if possible.
-
-**If your code does not build, you will receive a zero for the machine problem.**
