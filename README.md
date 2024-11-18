@@ -17,11 +17,11 @@ Battleships is a mobile game application where users can log in, register, play 
 Make sure you have Flutter installed. If you haven't already installed Flutter, follow the official [Flutter installation guide](https://flutter.dev/docs/get-started/install).
 
 ### Clone the Repository </br>
-## Install Dependencies </br>
+- ## Install Dependencies </br>
 In your project directory, run: </br>
 flutter pub get </br>
-</br>
-## Run the App </br>
+
+- ## Run the App </br>
 To run the app on an emulator or device, execute: </br>
 flutter run </br>
 
