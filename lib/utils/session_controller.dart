@@ -4,7 +4,7 @@ class SessionManager {
   static const String _sessionKey = 'sessionToken';
   static const String _usernameKey = 'username';
 
-
+ 
   static Future<bool> isLoggedIn() async {
     final prefs = await SharedPreferences.getInstance();
     final sessionToken = prefs.getString(_sessionKey);
