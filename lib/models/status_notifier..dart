@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'game_state.dart';
 import '../utils/session_controller.dart';
-
+ 
 class GameListNotifier extends ChangeNotifier {
   List<Game> games = [];
   bool isLoading = true;
