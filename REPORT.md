@@ -2,8 +2,6 @@
 
 ## Self-Evaluation Checklist
 
-Tick the boxes (i.e., fill them with 'X's) that apply to your submission:
-
 - [X] The app builds without error
 - [X] I tested the app in at least one of the following platforms (check all that apply):
   - [X] iOS simulator / MacOS
