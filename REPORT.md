@@ -1,10 +1,5 @@
 # MP Report
 
-## Team
-
-- Name: Mansi Patil
-- AID(s): A20549858
-
 ## Self-Evaluation Checklist
 
 Tick the boxes (i.e., fill them with 'X's) that apply to your submission:
