@@ -10,7 +10,7 @@ Battleships is a mobile game application where users can log in, register, play 
 - **Game Board Interaction**: Players can place their ships on a 5x5 grid and take turns shooting at the opponent's ships.
 - **Responsive UI**: The app is responsive to different screen sizes and adapts accordingly.
 - **Session Management**: Tokens are stored locally for authentication and automatically expire after 1 hour.
-
+ 
 ## Installation
 
 ### Prerequisites
