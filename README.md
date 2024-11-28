@@ -11,7 +11,7 @@ Battleships is a mobile game application where users can log in, register, play 
 - **Responsive UI**: The app is responsive to different screen sizes and adapts accordingly.
 - **Session Management**: Tokens are stored locally for authentication and automatically expire after 1 hour.
   
-## Installation
+## Installation   
 
 ### Prerequisites
 Make sure you have Flutter installed. If you haven't already installed Flutter, follow the official [Flutter installation guide](https://flutter.dev/docs/get-started/install).
