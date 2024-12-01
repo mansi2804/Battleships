@@ -3,7 +3,7 @@
 ## Overview   
 Battleships is a mobile game application where users can log in, register, play games of Battleships, and compete against both human and AI opponents. This project integrates a RESTful API to manage user authentication, game state, and gameplay interaction, all within a Flutter mobile application.
                      
-## Features          
+## Features           
 - **User Authentication**: Users can register, log in, and authenticate with a session token.
 - **Game Management**: Users can view ongoing and completed games, create new games, and delete old games.
 - **Multiplayer & AI Gameplay**: Users can play against a human opponent or an AI opponent.
