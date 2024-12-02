@@ -8,7 +8,7 @@ class Newgame extends StatefulWidget {
   final int gameType;
 
   const Newgame({super.key, required this.gameType});
-  
+   
   @override
   State<Newgame> createState() => _NewgameState();
 }
