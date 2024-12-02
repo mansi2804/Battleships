@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import '../utils/session_controller.dart';
 import 'dart:convert';
- 
+  
 class Newgame extends StatefulWidget {
   final int gameType;
 
